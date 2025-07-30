@@ -1,0 +1,1 @@
+## Classe Palavra secreta, cuida da descobertadas palavras
