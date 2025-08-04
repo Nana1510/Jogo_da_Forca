@@ -1,1 +1,0 @@
-## classe onde o jogo é iniciado
